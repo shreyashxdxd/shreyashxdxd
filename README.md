@@ -1,2 +1,2 @@
 # Hey! This is Shreyash Dahiwale  
-## Software Developer || Engineer || CS Enthusiast
+Software Developer || Engineer || CS Enthusiast
