@@ -18,7 +18,7 @@ Other Hobbies and Intrests:
  1. I am an amateur Chess player
  2. I like to watch Films
  3. I am an Intermediate Sudoku player
- 4. I am good at Vexillology
+ 4. I enjoy learning Geography and Vexillology
 
 Contact: shreyashdahiwale5@gmail.com  
 Thank You!
