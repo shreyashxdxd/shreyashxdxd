@@ -1,8 +1,7 @@
 # Hey! This is Shreyash Dahiwale  
 Software Developer || Engineer || CS Enthusiast  
 
-I’m deeply passionate about computers and technology—constantly exploring, learning, and figuring things out. I enjoy breaking down complex systems and understanding how things actually work under the hood.
-
+I’m deeply passionate about computers and technology.
 Skills:
   * Python
   * Javascript
